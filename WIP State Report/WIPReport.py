@@ -2,9 +2,9 @@ import mysql.connector
 import xlsxwriter
 import time
 
-cnx = mysql.connector.connect(user="hgdwreadwrite", password="1vmiWAqndlX1",
-                              host="34.232.48.193",
-                              database="hygeiabtdw-v3")
+cnx = mysql.connector.connect(user="XXXXXXXXXX", password="XXXXXXXXXXXX",
+                              host="XXXXXXXXXXXX",
+                              database="XXXXXXXXXXXXXX")
 cursor = cnx.cursor()
 
 start = time.time()
