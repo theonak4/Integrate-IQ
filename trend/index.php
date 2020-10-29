@@ -10,10 +10,10 @@
 
 */
 
-$DB_HOST = "34.232.48.193";
-$DB_USER = "hgdwreadwrite";
-$DB_PASS = "1vmiWAqndlX1";
-$DB_NAME = "hygeiabtdw-v3";
+$DB_HOST = "XXXXXXXXXXXXXX";
+$DB_USER = "XXXXXXXXXXXX";
+$DB_PASS = "XXXXXXXXXXXXXXXX";
+$DB_NAME = "XXXXXXXXXXXXXXXX";
 
 $conn = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 
